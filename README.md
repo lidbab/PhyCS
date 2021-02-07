@@ -4,4 +4,5 @@
 [Simulacija radioaktivnega razpada](https://github.com/lidbab/simradrazpad)
 
 ### micro:bit
-[15. Zvok](https://github.com/lidbab/zvok15)
+[15. Zvok](https://lidbab.github.io/zvok15/)
+
